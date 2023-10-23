@@ -11,6 +11,12 @@ header {
     margin-top: 80px;
 }
 
+#corsivo {
+    font-family: cursive;
+    font-size: smaller;
+}
+
+
 .evidenziato {
     background-color: rgb(255, 217, 0);
 }
@@ -25,8 +31,44 @@ thead {
     color: aliceblue;
 }
 
+.cella{
+    width: 200px;
+    height: 50px;
+}
+
 .tabella {
     background-color: rgb(145, 233, 224);
 }
+
+.chiaro {
+    color: grey;
+}
+
+#Booleaner {
+    color: #2765d7;
+}
+
+#data {
+    font-size: smaller;
+}
+
+#foot {
+    background-image: url(../img/monitor.jpg);
+    width: 280px;
+    height: 180px;
+    font-size: larger;
+    color: #ffffff;
+    padding: 20px;
+}
+
+#foot2 {
+    background-image: url(../img/graph.jpg);
+    width: 280px;
+    height: 180px;
+    font-size: larger;
+    color: #ffffff;
+    padding: 20px;
+}
+
 
 
