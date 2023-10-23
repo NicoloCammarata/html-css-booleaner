@@ -42,6 +42,7 @@ thead {
 
 .chiaro {
     color: grey;
+    padding: 10px;
 }
 
 #Booleaner {
@@ -68,6 +69,15 @@ thead {
     font-size: larger;
     color: #ffffff;
     padding: 20px;
+}
+
+.padding {
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+*{
+    margin: 0px;
 }
 
 
